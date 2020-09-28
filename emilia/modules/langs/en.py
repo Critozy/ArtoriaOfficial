@@ -19,9 +19,9 @@ en = {
 	"Bahasa telah di ubah ke {}!": "Language changed to {}!",
 	"Bahasa di *{}* saat ini adalah:\n{}.\n\nPilih bahasa:": "Current language in *{}* is:\n{}.\n\nSelect language:",
 	"obrolan saat ini": "current in this chat",
-	"language_help": """Not every group speaks indonesian; some groups would rather have Emilia respond in their own language.
+	"language_help": """Not every group speaks indonesian; some groups would rather have Artoria respond in their own language.
 
-This is where translations come in; you can change most of Emilia's replies to be in the language of your choice!
+This is where translations come in; you can change most of Artoria's replies to be in the language of your choice!
 
 Available languages are:
 - 🇮🇩 Indonesia
@@ -37,14 +37,14 @@ Hi {}, my name is {}! I am a group manager managed by [my master](tg://user?id={
 To get this bot status info and update, you can join our channel [Ayra's Bot News](https://t.me/AyraBotNews)
 
 Any issue or need more help?
-Join our group [Emilia Official Support](https://t.me/EmiliaOfficial)!
+PM Owner Bot (https://t.me/Oreooo)!
 
 You can find the list of available commands with /help.
 
 If you're enjoying using me, and/or would like to help me survive in the wild, hit /donate to help fund/upgrade my VPS!
 """,
 	"help_text": """
-Hey there! My name is *Emilia*.
+Hey there! My name is *Artoria*.
 I'm a modular group management bot with a few fun extras! Have a look at the following for an idea of some of \
 the things I can help you with.
 
@@ -63,13 +63,13 @@ All commands can either be used with / or !.
 And the following:
 """,
 	"donate_text": """Hello, glad to hear you want to donate!
-Need a lot of work for [my creator](tg://user?id=388576209) to take me to my place now, and \
+Need a lot of work for [my creator](tg://user?id=1124079706) to take me to my place now, and \
 every donation helps and motivates him to make me better.
 
 All donated money will be given to a better VPS to host me, and or some food. \
 He is just an ordinary person, so it will really help him!
 
-If you really are interested in donating, please visit paypal.me/AyraHikari, Thank you 😁""",
+If you really are interested in donating, please pm me :) t.me/Oreooo , Thank you 😁""",
 	"Kembali": "Back",
 	"Hubungi saya di PM untuk mendapatkan daftar perintah.": "Contact me in PM to get the list of possible commands.",
 	"Tolong": "Help",

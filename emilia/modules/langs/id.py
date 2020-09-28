@@ -1,14 +1,14 @@
 
-__lang__ = "🇮🇩 Indonesia"
+__lang__ = "Malaysia"
 
 id = {
 # main stuff
 	"start_text": """
 Hai {}, nama saya {}! Saya seorang manajer grup yang dikelola oleh [master saya ini](tg://user?id={}).
-Untuk mendapatkan info status dan update bot ini, anda dapat bergabung dengan channel kami [Ayra's Bot News](https://t.me/AyraBotNews)
+Untuk mendapatkan info status dan update bot ini, anda dapat bergabung dengan channel kami [VPNTrickFree](https://t.me/vpntrickfree)
 
 Ada masalah atau butuh bantuan lebih?
-Gabung grup [Emilia Official Support](https://t.me/EmiliaOfficial)!
+Gabung grup [Artoria Official Support](https://t.me/ArtoriaOfficial)!
 
 Anda dapat menemukan daftar perintah yang tersedia dengan /help.
 
@@ -16,7 +16,7 @@ Jika Anda menikmati menggunakan saya, dan/atau ingin membantu saya bertahan hidu
 mendanai/meningkatkan VPS saya!
 """,
 	"help_text": """
-Hai! Nama saya adalah *Emilia*.
+Hai! Nama saya adalah *Artoria*.
 Saya adalah bot manajemen grup dengan beberapa kelebihan yang menyenangkan! Silahkan lihat berikut ini untuk beberapa ide dari \
 hal-hal yang bisa saya bantu.
 
@@ -41,12 +41,12 @@ setiap sumbangan membantu dan memotivasi dia untuk membuat saya lebih baik.
 Semua uang sumbangan akan diberikan ke VPS yang lebih baik untuk menjadi tuan rumah saya, dan atau beberapa makanan. \
 Dia hanya orang biasa, jadi akan sangat membantu dia!
 
-Jika anda memang berminat untuk donate, silahkan kunjungi paypal.me/AyraHikari, Terima kasih 😁""",
+Jika anda memang berminat untuk donate, silahkan kunjungi t.me/Oreooo , Terima kasih 😁""",
 	
 # Help modules
-	"language_help": """Tidak semua grup berbicara bahasa Indonesia; beberapa grup lebih suka Emilia menanggapi dalam bahasa mereka sendiri.
+	"language_help": """Tidak semua grup berbicara bahasa Indonesia; beberapa grup lebih suka Artoria menanggapi dalam bahasa mereka sendiri.
 
-Di sinilah terjemahan masuk; Anda dapat mengubah sebagian besar balasan Emilia menjadi bahasa pilihan Anda!
+Di sinilah terjemahan masuk; Anda dapat mengubah sebagian besar balasan Artoria menjadi bahasa pilihan Anda!
 
 Bahasa yang tersedia adalah:
 - 🇮🇩 Indonesia
@@ -89,8 +89,8 @@ Ketika ditandai sebagai AFK, sebutan apa pun akan dibalas dengan pesan untuk men
 """,
 	"backups_help": """
 *Hanya admin:*
- - /import: balas ke file cadangan grup butler/marie/rose/emilia untuk mengimpor sebanyak mungkin, membuat transfer menjadi sangat mudah! \
- Catatan bahwa file/foto tidak dapat diimpor karena pembatasan telegram. Kecuali backup dari Emilia.
+ - /import: balas ke file cadangan grup butler/marie/rose/Artoria untuk mengimpor sebanyak mungkin, membuat transfer menjadi sangat mudah! \
+ Catatan bahwa file/foto tidak dapat diimpor karena pembatasan telegram. Kecuali backup dari Artoria.
  - /export: export data grup, hanya bisa di lakukan 12 jam sekali.
 """,
 	"bans_help": """
@@ -530,7 +530,7 @@ RUN_STRINGS = (
     "Saya tidak peduli dengan anda... Jadi, lari lebih cepat!",
     "Anda tidak bisa MENANGANI kebenaran!",
     "Dulu, di galaksi yang sangat jauh... Seseorang pasti peduli dengan dia.",
-    "Hei, lihat mereka! Mereka berlari dari Emilia yang tak terelakkan ... Lucu sekali 😂",
+    "Hei, lihat mereka! Mereka berlari dari Artoria yang tak terelakkan ... Lucu sekali 😂",
     "Han menembak lebih dulu. Begitu juga saya.",
     "Apa yang kamu kejar? kelinci putih?",
     "Sepertinya dokter akan mengatakan... LARI!",
@@ -604,8 +604,8 @@ RAMALAN_STRINGS = (
 	"Nostalgia masa muda hari ini akan membuat Anda tersenyum 🌸",
 	"Lanjutkan terus pekerjaan Anda, niscaya akan selesai juga.\nOke, saya akui ramalan hari ini agak jayus 😝",
 	"Mengetahui bahwa ilusi bukanlah kenyataan tidak membuat keindahannya berkurang 💖",
-	"Anda akan mengalami kejadian aneh hari ini.\nDan itu tidak termasuk mendapatkan ramalan dari Emilia 😜",
-	"Akhirnya ada kesempatan untuk beristirahat...\ndan mendengar ramalan dari Emilia 😉",
+	"Anda akan mengalami kejadian aneh hari ini.\nDan itu tidak termasuk mendapatkan ramalan dari Artoria 😜",
+	"Akhirnya ada kesempatan untuk beristirahat...\ndan mendengar ramalan dari Artoria 😉",
 	"Pencarian Anda sudah selesai.\nAnda telah menemukan sahabat sejati (saya) 😀",
 	"Anda akan menunjukkan bahwa Anda kuat melewati tantangan demi tantangan.",
 	"Anda hanyalah setitik air di tengah lautan luas.\nTapi setitik air pun bisa bikin gadget rusak 😱 💦",

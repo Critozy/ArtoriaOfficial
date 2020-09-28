@@ -20,13 +20,10 @@ en = {
 	"Bahasa di *{}* saat ini adalah:\n{}.\n\nPilih bahasa:": "Current language in *{}* is:\n{}.\n\nSelect language:",
 	"obrolan saat ini": "current in this chat",
 	"language_help": """Not every group speaks indonesian; some groups would rather have Artoria respond in their own language.
-
 This is where translations come in; you can change most of Artoria's replies to be in the language of your choice!
-
 Available languages are:
 - 🇮🇩 Indonesia
 - 🇺🇸 English
-
 Available commands are:
  - /setlang: set your prefered language.""",
 
@@ -34,20 +31,16 @@ Available commands are:
 	"Ada yang bisa saya bantu? 😊": "Is there anything I can help? 😊",
 	"start_text": """
 Hi {}, my name is {}! I am a group manager managed by [my master](tg://user?id={}).
-To get this bot status info and update, you can join our channel [Ayra's Bot News](https://t.me/AyraBotNews)
-
+To get this bot status info and update, you can join our channel [VPNTrickFree](https://t.me/vpntrickfree)
 Any issue or need more help?
 PM Owner Bot (https://t.me/Oreooo)!
-
 You can find the list of available commands with /help.
-
 If you're enjoying using me, and/or would like to help me survive in the wild, hit /donate to help fund/upgrade my VPS!
 """,
 	"help_text": """
 Hey there! My name is *Artoria*.
 I'm a modular group management bot with a few fun extras! Have a look at the following for an idea of some of \
 the things I can help you with.
-
 *Main* commands available:
  - /start: start the bot
  - /help: PM's you this message.
@@ -56,19 +49,14 @@ the things I can help you with.
  - /settings:
    - in PM: will send you your settings for all supported modules.
    - in a group: will redirect you to pm, with all that chat's settings.
-
-
 All commands can either be used with / or !.
-
 And the following:
 """,
 	"donate_text": """Hello, glad to hear you want to donate!
 Need a lot of work for [my creator](tg://user?id=1124079706) to take me to my place now, and \
 every donation helps and motivates him to make me better.
-
 All donated money will be given to a better VPS to host me, and or some food. \
 He is just an ordinary person, so it will really help him!
-
 If you really are interested in donating, please pm me :) t.me/Oreooo , Thank you 😁""",
 	"Kembali": "Back",
 	"Hubungi saya di PM untuk mendapatkan daftar perintah.": "Contact me in PM to get the list of possible commands.",
@@ -135,7 +123,6 @@ If you really are interested in donating, please pm me :) t.me/Oreooo , Thank yo
 	"afk_help": """
  - /afk <reason>: mark yourself as AFK.
  - brb <reason>: same as the afk command - but not a command.
-
 When marked as AFK, any mentions will be replied to with a message to say you're not available!
 """,
 
@@ -162,9 +149,7 @@ When marked as AFK, any mentions will be replied to with a message to say you're
 	"tendang": "kicked",
 	"bisukan": "muted",
 	"""Sepertinya Anda mencoba menetapkan nilai sementara untuk anti-banjir, tetapi belum menentukan waktu; gunakan `/setfloodmode tban <timevalue>`.
-
 Contoh nilai waktu: 4m = 4 menit, 3h = 3 jam, 6d = 6 hari, 5w = 5 minggu.""": """It looks like you are trying to set a temporary value for antiflood, but has not determined the time; use `/setfloodmode tban <timevalue>`.
-
 Examples of time values: 4m = 4 minutes, 3h = 3 hours, 6d = 6 days, 5w = 5 week.""",
 	"blokir sementara selama {}": "temp banned for {}",
 	"bisukan sementara selama {}": "temp mute for {}",
@@ -177,11 +162,9 @@ Examples of time values: 4m = 4 minutes, 3h = 3 hours, 6d = 6 days, 5w = 5 week.
 	"Anti Pesan Beruntun diatur ke `{}` pesan.": "Antiflood is set to `{}` messages.",
 	"antiflood_help": """
  - /flood: Get the current flood control setting
-
 *Admin only:*
  - /setflood <int/'no'/'off'>: enables or disables flood control
  - /setfloodmode <ban/kick/mute/tban/tmute> <value>: select the action perform when warnings have been exceeded. ban/kick/mute/tmute/tban
-
  Note:
  - Value must be filled for tban and tmute, Can be:
 	`4m` = 4 minutes
@@ -193,8 +176,8 @@ Examples of time values: 4m = 4 minutes, 3h = 3 hours, 6d = 6 days, 5w = 5 week.
 # Backups
 	"Coba unduh dan unggah ulang file seperti Anda sendiri sebelum mengimpor - yang ini sepertinya rusak!": "Try downloading and reuploading the file as yourself before importing - this one seems to be iffy!",
 	"File cadangan tidak valid!": "Invalid backup file!",
-	"Telah terjadi kesalahan dalam import backup Emilia!\nGabung ke [Grup support](https://t.me/EmiliaOfficial) kami untuk melaporkan dan mengatasi masalah ini!\n\nTerima kasih": "An exception occured while restoring your data from Emilia backup!\nJoin our [Group support](https://t.me/EmiliaOfficial) for reporting and troubleshooting this problem!\n\nThank you",
-	"Telah terjadi kesalahan dalam import backup Rose!\nGabung ke [Grup support](https://t.me/EmiliaOfficial) kami untuk melaporkan dan mengatasi masalah ini!\n\nTerima kasih": "An exception occured while restoring your data from Rose backup!\nJoin our [Group support](https://t.me/EmiliaOfficial) for reporting and troubleshooting this problem!\n\nThank you",
+	"Telah terjadi kesalahan dalam import backup Artoria!\nGabung ke [Grup support](https://t.me/ArtoriaOfficial) kami untuk melaporkan dan mengatasi masalah ini!\n\nTerima kasih": "An exception occured while restoring your data from Artoria backup!\nJoin our [Group support](https://t.me/ArtoriaOfficial) for reporting and troubleshooting this problem!\n\nThank you",
+	"Telah terjadi kesalahan dalam import backup Rose!\nGabung ke [Grup support](https://t.me/ArtoriaOfficial) kami untuk melaporkan dan mengatasi masalah ini!\n\nTerima kasih": "An exception occured while restoring your data from Rose backup!\nJoin our [Group support](https://t.me/ArtoriaOfficial) for reporting and troubleshooting this problem!\n\nThank you",
 	"Ada lebih dari satu grup di file ini, dan tidak ada yang memiliki id obrolan yang sama dengan grup ini - bagaimana cara memilih apa yang akan diimpor?": "Theres more than one group here in this file, and none have the same chat id as this group - how do I choose what to import?",
 	"Backup berasal chat lain, Saya tidak bisa mengembalikan chat lain kedalam chat *{}*": "Backup comes from another chat, I can't return another chat to chat *{}*",
 	"Backup berasal chat lain, Saya tidak bisa mengembalikan chat lain kedalam chat ini": "Backup comes from another chat, I can't return another chat to this chat",
@@ -208,11 +191,11 @@ Examples of time values: 4m = 4 minutes, 3h = 3 hours, 6d = 6 days, 5w = 5 week.
 							   "if it still does not work, report it to the bot maker for "
 							   "make me better! Thanks! 🙂",
 	"Kesalahan terjadi saat memulihkan data Anda. Prosesnya mungkin tidak lengkap. Jika "
-						   "Anda mengalami masalah dengan ini, pesan @AyraHikari dengan file cadangan Anda, jadi "
+						   "Anda mengalami masalah dengan ini, pesan @Oreooo dengan file cadangan Anda, jadi "
 						   "masalah bisa di-debug. Pemilik saya akan dengan senang hati membantu, dan setiap bug "
 						   "dilaporkan membuat saya lebih baik! Terima kasih! 🙂": 
 	"An exception occured while restoring your data. The process may not be complete. If "
-						   "you have a problem with this, contact @AyraHikari with your backup file, so "
+						   "you have a problem with this, contact @Oreooo with your backup file, so "
 						   "issue can be debugged. My owner will be happy to help, and every bug "
 						   "reported makes me better! Thanks! 🙂",
 	"Cadangan sepenuhnya dikembalikan pada *{}*. Selamat datang kembali! 😀": "Backup fully imported in *{}*. Welcome back! 😀",
@@ -235,8 +218,8 @@ Examples of time values: 4m = 4 minutes, 3h = 3 hours, 6d = 6 days, 5w = 5 week.
 	"*Berhasil mencadangan untuk:*\nNama chat: `{}`\nID chat: `{}`\nPada: `{}`\n\nNote: cadangan ini khusus untuk bot ini, jika di import ke bot lain maka catatan dokumen, video, audio, voice, dan lain-lain akan hilang": "*Successfully backed up for:*\nChat: `{}`\nChat ID: `{}`\nAt: `{}`\n\nNote: This backup is specific to this bot, if it is imported to another bot then document, video, audio, voice, and other notes will be lost",
 	"backups_help": """
 *Admin only:*
- - /import: reply to a group butler/marie/rose/emilia backup file to import as much as possible, making the transfer super simple!
-Note that files/photos from other bots can't be imported due to telegram restrictions. Except for Emilia backup it self.
+ - /import: reply to a group butler/marie/rose/Artoria backup file to import as much as possible, making the transfer super simple!
+Note that files/photos from other bots can't be imported due to telegram restrictions. Except for Artoria backup it self.
  - /export: export group data, you can do this 12 hours once.
 """,
 	"*Data yang tidak dapat di import*": "*Data which can't be imported*",
@@ -267,7 +250,6 @@ Note that files/photos from other bots can't be imported due to telegram restric
 	"Ya, pengguna ini dapat bergabung! 😁": "Yep, this user can join! 😁",
 	"bans_help": """
  - /kickme: kicks the user who issued the command
-
 *Admin only:*
  - /ban <userhandle>: bans a user. (via handle, or reply)
  - /tban <userhandle> x(m/h/d): bans a user for x time. (via handle, or reply). m = minutes, h = hours, d = days.
@@ -294,17 +276,13 @@ Note that files/photos from other bots can't be imported due to telegram restric
 	"di blokir sementara selama {}": "temporarily ban for {}",
 	"di bisukan sementara selama {}": "temporarily mute for {}",
 	"""Sepertinya Anda mencoba menetapkan nilai sementara untuk blacklist, tetapi belum menentukan waktu; gunakan `/blacklistmode tban <timevalue>`.
-
 Contoh nilai waktu: 4m = 4 menit, 3h = 3 jam, 6d = 6 hari, 5w = 5 minggu.""": """It looks like you are trying to set a temporary value to blacklist, but has not determined the time; use `/blacklistmode tban <timevalue>`.
-
 Examples of time values: 4m = 4 minute, 3h = 3 hours, 6d = 6 days, 5w = 5 weeks.""",
 	"""Nilai waktu tidak valid!
 Contoh nilai waktu: 4m = 4 menit, 3h = 3 jam, 6d = 6 hari, 5w = 5 minggu.""": """Invalid time value!
 Examples of time values: 4m = 4 minute, 3h = 3 hours, 6d = 6 days, 5w = 5 weeks.""",
 	"""Sepertinya Anda mencoba menetapkan nilai sementara untuk blacklist, tetapi belum menentukan waktu; gunakan `/blacklistmode tmute <timevalue>`.
-
 Contoh nilai waktu: 4m = 4 menit, 3h = 3 jam, 6d = 6 hari, 5w = 5 minggu.""": """It looks like you are trying to set a temporary value to blacklist, but has not determined the time; use `/blacklistmode tmute <timevalue>`.
-
 Examples of time values: 4m = 4 minute, 3h = 3 hours, 6d = 6 days, 5w = 5 weeks.""",
 	"Saya hanya mengerti off/del/warn/ban/kick/mute/tban/tmute!": "I only understand off/del/warn/ban/kick/mute/tban/tmute!",
 	"Mode blacklist diubah, Pengguna akan `{}` pada *{}*!": "Blacklist mode changed, will `{}` at *{}*!",
@@ -330,10 +308,8 @@ Examples of time values: 4m = 4 minute, 3h = 3 hours, 6d = 6 days, 5w = 5 weeks.
 	"blacklist_help": """
 Blacklists are used to stop certain triggers from being said in a group. Any time the trigger is mentioned, \
 the message will immediately be deleted. A good combo is sometimes to pair this up with warn filters!
-
 *NOTE:* blacklists do not affect group admins.
  - /blacklist: View the current blacklisted words.
-
 *Admin only:*
  - /addblacklist <triggers>: Add a trigger to the blacklist. Each line is considered one trigger, so using different \
 lines will allow you to add multiple triggers.
@@ -356,14 +332,10 @@ multiple triggers at once.
 	"Stiker <code>{}</code> dihapus dari daftar hitam. {} Tidak ada, jadi tidak dihapus.": "Sticker <code>{}</code> deleted from blacklist. {} did not exist, so it's not deleted.",
 	"{} tidak ada di daftar hitam stiker...!": "{} not found on blacklisted stickers...!",
 	"""Sepertinya Anda mencoba menetapkan nilai sementara untuk blacklist sticker, tetapi belum menentukan waktu; gunakan `/blstickermode tban <timevalue>`.
-
 Contoh nilai waktu: 4m = 4 menit, 3h = 3 jam, 6d = 6 hari, 5w = 5 minggu.""": """It looks like you are trying to set a temporary value to blacklist, but has not determined the time; use `/blstickermode tban <timevalue>`.
-
 Examples of time values: 4m = 4 minute, 3h = 3 hours, 6d = 6 days, 5w = 5 weeks.""",
 	"""Sepertinya Anda mencoba menetapkan nilai sementara untuk blacklist sticker, tetapi belum menentukan waktu; gunakan `/blstickermode tmute <timevalue>`.
-
 Contoh nilai waktu: 4m = 4 menit, 3h = 3 jam, 6d = 6 hari, 5w = 5 minggu.""": """It looks like you are trying to set a temporary value to blacklist, but has not determined the time; use `/blstickermode tmute <timevalue>`.
-
 Examples of time values: 4m = 4 minute, 3h = 3 hours, 6d = 6 days, 5w = 5 weeks.""",
 	"Mode blacklist sticker diubah, Pengguna akan `{}` pada *{}*!": "Blacklist sticker mode changed, will `{}` at *{}*!",
 	"Mode blacklist sticker diubah, Pengguna akan `{}`!": "Blacklist sticker mode changed, will `{}`!",
@@ -379,16 +351,12 @@ Examples of time values: 4m = 4 minute, 3h = 3 hours, 6d = 6 days, 5w = 5 weeks.
 	"{} pemicu daftar hitam stiker, di seluruh {} obrolan.": "{} blacklist stickers, across {} chats.",
 	"blstickers_help": """
 Blacklist sticker is used to stop certain stickers. Whenever a sticker is sent, the message will be deleted immediately.
-
 *NOTE:* Blacklist stickers do not affect the group admin.
-
  - /blsticker: See current blacklisted sticker.
-
 *Only admin:*
  - /addblsticker <sticker link>: Add the sticker trigger to the black list. Can be added via reply sticker.
  - /unblsticker <sticker link>: Remove triggers from blacklist. The same newline logic applies here, so you can delete multiple triggers at once.
  - /rmblsticker <sticker link>: Same as above.
-
 Note:
  - `<sticker link>` can be `https://t.me/addstickers/<sticker>` or just `<sticker>` or reply to the sticker message.
 """,
@@ -396,93 +364,72 @@ Note:
 # Connection
 	"supportcmd": """
 *Currently support command*
-
 *「 For Members 」*
 *Admin*
 -> `/adminlist` | `/admins`
-
 *Anti Flood*
 -> `/flood`
-
 *Blacklist*
 -> `/blacklist`
-
 *Blacklist Sticker*
 -> `/blsticker`
-
 *Filter*
 -> `/filters`
-
 *Notes*
 -> `/get`
 -> `/notes` | `/saved`
-
 *Rules*
 -> `/rules`
-
 *Warnings*
 -> `/warns`
 -> `/warnlist` | `/warnfilters`
-
 *「 Admin Only 」*
 *Admin*
 -> `/adminlist`
-
 *Anti Flood*
 -> `/setflood`
 -> `/flood`
-
 *Backups*
 -> `/import`
 -> `/export`
-
 *Banned*
 -> `/ban`
 -> `/tban` | `/tempban`
 -> `/kick`
 -> `/unban`
-
 *Blacklist*
 -> `/blacklist`
 -> `/addblacklist`
 -> `/unblacklist` | `/rmblacklist`
-
 *Blacklist Sticker*
 -> `/blsticker`
 -> `/addblsticker`
 -> `/unblsticker` | `/rmblsticker`
-
 *Disabler*
 -> `/enable`
 -> `/disable`
 -> `/cmds`
-
 *Filter*
 -> `/filter`
 -> `/stop`
 -> `/filters`
-
 *Locks*
 -> `/lock`
 -> `/unlock`
 -> `/locks`
-
 *Notes*
 -> `/get`
 -> `/save`
 -> `/clear`
 -> `/notes` | `/saved`
-
 *Mute user*
 -> `/mute`
 -> `/unmute`
 -> `/tmute`
-
 *Rules*
 -> `/rules`
 -> `/setrules`
 -> `/clearrules`
-
 *Warns*
 -> `/warn`
 -> `/resetwarn` | `/resetwarns`
@@ -516,7 +463,6 @@ Note:
 	"PM saya dengan command itu untuk mendapatkan bantuan Koneksi": "PM me with that command to get help",
 	"connection_help": """
 Organize your group via PM easily.
-
  - /connect <chatid/tag>: Connect to remote chat
  - /connection: Request a list of supported command commands
  - /disconnect: Disconnect from chat
@@ -548,7 +494,6 @@ Organize your group via PM easily.
 	"Ada `{}` filter khusus di sini.": "There are `{}` custom filters here.",
 	"filters_help": """
  - /filters: list all active filters in this chat.
-
 *Admin only:*
  - /filter <keyword> <reply message>: add a filter to this chat. The bot will now reply that message whenever 'keyword' is mentioned. If you reply to a sticker with a keyword, the bot will reply with that sticker. 
 NOTE: all filter keywords are in lowercase. If you want your keyword to be a sentence, use quotes. eg: /filter "hey there" How you doin?
@@ -571,7 +516,6 @@ NOTE: all filter keywords are in lowercase. If you want your keyword to be a sen
 	"Tidak ada perintah yang dinonaktifkan!": "No commands are disabled!",
 	"disable_help": """
  - /cmds: check the current status of disabled commands
-
 *Admin only:*
  - /enable <cmd name>: enable that command
  - /disable <cmd name>: disable that command
@@ -705,17 +649,14 @@ NOTE: all filter keywords are in lowercase. If you want your keyword to be a sen
 	"feds_help": """
 Ah, group management. It's all fun and games, until you start getting spammers in, and you need to ban them. Then you need to start banning more, and more, and it gets painful.
 But then you have multiple groups, and you don't want these spammers in any of your groups - how can you deal? Do you have to ban them manually, in all your groups?
-
 No more! With federations, you can make a ban in one chat overlap to all your other chats.
 You can even appoint federation admins, so that your trustworthiest admins can ban across all the chats that you want to protect.
-
 *Commands:*
  - /fedstat: List all the federations you've been banned from.
  - /fedstat <user ID>: Lists all the federations the specified user has been banned from (also works with username, mention, and replies).
  - /fedstat <user ID> <Fed ID>: Gives information on the specified user's ban reason in that federation. If no user is specified, checks the sender.
  - /joinfed <FedID>: Joins the current chat to the federation. Each chat can only be in one federation. Only chat owners can do this.
  - /leavefed <FedID>: Leaves the current federation. Only chat owners can do this.
-
 *Only federation admin:*
  - /newfed <fedname>: Creates a new federation with the given name. Users are only allowed to own one federation. Using this method when you already have a fed will simply change the federation name. (max 64 characters)
  - /delfed: Deletes your federation, and any information relating to it. Will not unban any banned users.
@@ -730,7 +671,6 @@ You can even appoint federation admins, so that your trustworthiest admins can b
  - /fednotif <on/off>: Set federation notified in PM when user is fban/unfban.
  - /fedchats: Get all chat connected in federation.
  - /myfeds: Get all your feds, only for feds owner
-
 *Only federation owner:*
  - /fpromote <user>: Promotes the user to fed admin in your fed.
  - /fdemote <user>: Demotes the user from fed admin to normal user, in your fed.
@@ -774,7 +714,6 @@ You can even appoint federation admins, so that your trustworthiest admins can b
 	"globalbans_help": """
 *Admin only:*
  - /gbanstat <on/off/yes/no>: Will disable the effect of global bans on your group, or return your current settings.
-
 Gbans, also known as global bans, are used by the bot owners to ban spammers across all groups. This helps protect \
 you and your groups by removing spam flooders as quickly as possible. They can be disabled for you group by calling \
 /gbanstat
@@ -804,13 +743,11 @@ you and your groups by removing spam flooders as quickly as possible. They can b
 	"Mengirim '{}' yang sedang di kunci saat ini": "Send '{}' which currently locked",
 	"locks_help": """
  - /locktypes: a list of possible locktypes
-
 *Admin only:*
  - /lock <type>: lock items of a certain type (not available in private)
  - /unlock <type>: unlock items of a certain type (not available in private)
  - /locks: the current list of locks in this chat.
  - /lockwarns <on/off/yes/no>: whether or not warn users sending locked messages.
-
 Locks can be used to restrict a group's users.
 eg:
 Locking urls will auto-delete all messages with urls, locking stickers will delete all \
@@ -839,7 +776,6 @@ Locking bots will stop non-admins from adding bots to the chat.
 - /logchannel: get log channel info
 - /setlog: set the log channel.
 - /unsetlog: unset the log channel.
-
 Setting the log channel is done by:
 - adding the bot to the desired channel (as an admin!)
 - sending /setlog in the channel
@@ -980,10 +916,8 @@ Keep in mind that your message <b>MUST</b> contain some text other than just a b
  - /get <notename>: get the note with this notename
  - #<notename>: same as /get
  - /notes or /saved: list all saved notes in this chat
-
 If you would like to retrieve the contents of a note without any formatting, use `/get <notename> noformat`. This can \
 be useful when updating a current note.
-
 *Admin only:*
  - /save <notename> <notedata>: saves notedata as a note with name notename
 A button can be added to a note by using standard markdown link syntax - the link should just be prepended with a \
@@ -1024,7 +958,6 @@ A button can be added to a note by using standard markdown link syntax - the lin
  - /report <reason>: reply to a message to report it to admins.
  - @admin: reply to a message to report it to admins.
 NOTE: neither of these will get triggered if used by admins
-
 *Admin only:*
  - /reports <on/off>: change report setting, or view current status.
    - If done in pm, toggles your status.
@@ -1051,7 +984,6 @@ NOTE: neither of these will get triggered if used by admins
  - /removerss <link>: removes the RSS link from the subscriptions.
  - /rss <link>: shows the link's data and the last entry, for testing purposes.
  - /listrss: shows the list of rss feeds that the chat is currently subscribed to.
-
 NOTE: In groups, only admins can add/remove RSS links to the group's subscription
 """,
 	"Pintasan aturan untuk obrolan ini belum diatur dengan benar! Mintalah admin untuk perbaiki ini.": "The rules shortcut for this chat hasn't been set properly! Ask admins to fix this.",
@@ -1067,7 +999,6 @@ NOTE: In groups, only admins can add/remove RSS links to the group's subscriptio
 	"Obrolan ini memiliki aturan yang ditetapkan: `{}`": "This chat has had it's rules set: `{}`",
 	"rules_help": """
  - /rules: get the rules for this chat.
-
 *Admin only:*
  - /setrules <your rules here>: set the rules for this chat.
  - /clearrules: clear the rules for this chat.
@@ -1165,7 +1096,6 @@ NOTE: In groups, only admins can add/remove RSS links to the group's subscriptio
 	"warns_help": """
  - /warns <userhandle>: get a user's number, and reason, of warnings.
  - /warnlist: list of all current warning filters
-
 *Admin only:*
  - /warn <userhandle>: warn a user. After 3 warns, the user will be banned from the group. Can also be used as a reply.
  - /resetwarn <userhandle>: reset the warnings for a user. Can also be used as a reply.
@@ -1275,12 +1205,9 @@ be a sentence, encompass it with quotes, as such: `/addwarn "very angry" This is
  Note: if you want to reset the mute time to be forever, use /welcomemutetime 0m. 0 == eternal!
  - /setmutetext <new text>: Customise the "Click here to unmute" button obtained from enabling welcomemutes.
  - /resetmutetext: Reset teks tombol unmute menjadi default.
-
 Read /welcomehelp and /markdownhelp to learn about formatting your text and mentioning new users when the join!
-
 If you want to save an image, gif, or sticker, or any other data, do the following:
 /setwelcome while replying to a sticker or whatever data you'd like. This data will now be sent to welcome new users.
-
 Tip: use /welcome noformat to retrieve the unformatted welcome message.
 This will retrieve the welcome message and send it without formatting it; getting you the raw markdown, allowing you to make easy edits.
 This also works with /goodbye.
@@ -1308,7 +1235,7 @@ This also works with /goodbye.
  - /stickerid: reply message sticker at PM to get ID sticker
  - /ping: check the speed of the bot
  - /fortune: give a fortune
- - /tr <from>-<to> <text>: translate text written or reply for any language to the intended language, or
+ - /tr <from>-<to> <text>: translate text written or reply for any language to the intended language, or
  - /tr <to> <text>: translate text written or reply for any language to the intended language
  - /wiki <text>: search for text written from the wikipedia source
  - /ud <text>: search from urban dictionary
